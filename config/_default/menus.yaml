@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 7e86551c-d553-4977-8257-a8548c876c92
+  name: Lecture Notes
+  pageRef: /lists/lecture-notes
+  weight: 10
