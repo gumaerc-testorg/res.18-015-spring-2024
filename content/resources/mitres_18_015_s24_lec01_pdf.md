@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24_lec01.pdf
+file: /ol-ocw-studio-app/courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24_lec01.pdf
 file_size: 386924
 file_type: application/pdf
 image_metadata:
