@@ -2,19 +2,19 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24_lec06.pdf
-file_size: 310892
+file: /ol-ocw-studio-app/courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24_sol.pdf
+file_size: 355696
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.18-015 S24 Lecture 06: The L^1 Fourier Transform'
-uid: f464464c-a496-4fca-a21e-b5aab2c399e6
+title: RES.18-015 S24 Solutions
+uid: d5b53fe3-d072-42d9-84a9-10463cada94e
 video_files:
   archive_url: ''
   video_captions_file: ''

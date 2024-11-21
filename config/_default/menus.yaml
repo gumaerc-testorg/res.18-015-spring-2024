@@ -3,3 +3,7 @@ leftnav:
   name: Lecture Notes
   pageRef: /lists/lecture-notes
   weight: 10
+- identifier: adcce142-7aa0-4210-bdb3-a379dbfc496a
+  name: Solutions
+  pageRef: /lists/solutions
+  weight: 20
