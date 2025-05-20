@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24.jpg
+file: courses/topics-in-analysis-notes/mitres_18_015_s24.jpg
 file_size: 336997
 file_type: image/jpeg
 image_metadata:
