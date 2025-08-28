@@ -30,9 +30,10 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.18-015",
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes"
   ],
   "site_uid": "eab4b72b-a0dd-431d-bb38-3d69cd7b41bc",
-  "site_short_id": "res.18-015-spring-2024"
+  "site_short_id": "res.18-015-spring-2024",
+  "site_url_path": "courses/res-18-015-topics-in-fourier-analysis-spring-2024"
 }
