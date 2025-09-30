@@ -9,8 +9,8 @@ image_metadata:
   caption: "Real and imaginary parts of an integrand for the Fourier transform at\
     \ 5\_Hz. This image shows the real and imaginary parts of an oscillating function\
     \ times the complex exponential with oscillating at a different rate. (Courtesy\
-    \ of Thenub314 on [Wikipedia](https://commons.wikimedia.org/wiki/File:Offfreq_i2p.svg).\
-    \ License: CC BY.)"
+    \ of Thenub314 on {{% resource_link \"39866552-92aa-461c-a073-50dc6a25df4e\" \"\
+    Wikipedia\" %}}. License: CC BY.)"
   credit: ''
   image-alt: Two sets of red oscillating curves, each in one rectangle side by side.
 learning_resource_types: []
